@@ -1,0 +1,510 @@
+author,created_utc,id,is_original_content,is_self,link_flair_text,locked,name,num_comments,over_18,permalink,score,selftext,spoiler,stickied,subreddit,title,upvote_ratio,url
+Redrisu99,1697988829.0,17dvyk1,False,True,Discussion,False,t3_17dvyk1,1,False,/r/VALORANT/comments/17dvyk1/autohotkey_bind_a_shortcut_key_to_quickly/,1,"I've been using this autohotkey script for about 2 - 3 months and never been banned or warned bc of it. 
+
+Recently I spent some money in this game, and become kind of worried. After surfing in reddit, there are some other guys have similar questions or experience, I think most of them say they aren't banned bc of AHK too. Combined with my own experience I think it would be safe at least if you don't use ahk to have any interaction with the game, like use ahk rather than mouse and keyboard to send instruction to game. Maybe they can detect if a key-press command or mouse-move is sent by keyboard or ahk. 
+
+Also I saw someone shared their toggle mic AHK script. It makes me want to share mine too if anyone need. This script also only interact with the system volume settings, so no interaction with the game by inputing something to the game process. 
+
+Firstly you need to install 'soundvolumeview', it can easily make you adjust each windows' volume. 
+
+Then find Valorant process. Create a shortcut to Mute/Unmute the game. 
+
+&#x200B;
+
+https://preview.redd.it/h4mb9hortrvb1.png?width=623&format=png&auto=webp&s=2e4bfdd53054c885974d615bf574fbfd64e081dd
+
+Then you can bind a key to run that shortcut. You can use your keyboard driver to run the shortcut (My driver can't run the shortcut file(.ink file) directly, so I make a .bat file to run the shortcut file, and then use driver to bind a key to run the /bat file, it also works. )
+
+But the problem of using .bat is that, every time you use the switch,  a cmd window would pop up for a little while. If you find it annoying you can just use AHK script. Bind a hotkey to run that shortcut file. This step can be easy. 
+
+`The key you want to use(mine is Numpad1)::` 
+
+`Run ""D:\Your file location\Mute Switch VALORANT""` 
+
+`return`
+
+Then you can easily mute and unmute the game with a single press
+
+I hope it helps. Also excuse me if my wording is not so good, English is not my native language. 
+
+&#x200B;",False,False,VALORANT,"Autohotkey, bind a shortcut key to quickly mute/unmute Valorant with a single press",1.0,https://www.reddit.com/r/VALORANT/comments/17dvyk1/autohotkey_bind_a_shortcut_key_to_quickly/
+Putrid-Dust-1047,1697988815.0,17dvyda,False,True,Art,False,t3_17dvyda,0,False,/r/VALORANT/comments/17dvyda/oh_run_sage/,1,"&#x200B;
+
+[I wanted to draw Gekko and I thought why not make a video? For more information, you can check out my instagram account from my profile. I'm waiting for your comments.](https://reddit.com/link/17dvyda/video/vmdyilqyvrvb1/player)",False,False,VALORANT,Oh! Run Sage!,1.0,https://www.reddit.com/r/VALORANT/comments/17dvyda/oh_run_sage/
+OisinC,1697987348.0,17dvegx,False,False,Art,False,t3_17dvegx,1,False,/r/VALORANT/comments/17dvegx/in_the_ring_valorant_x_donjessie_official_audio/,2,,False,False,VALORANT,IN THE RING // VALORANT x Don·Jessie - Official Audio,1.0,https://www.youtube.com/watch?v=boz5BU1KdIw
+Numerous_Ad_7006,1697986490.0,17dv365,False,True,Question,False,t3_17dv365,6,False,/r/VALORANT/comments/17dv365/all_if_a_sudden_i_am_horrible/,1,"So as the title says. I top frag basically most games I play usually, and I usually always have a positive kd ratio, and my crosshair placement is good. But this weekend, starting Friday (now it's sunday), I've been constant bottom frag and all games except one having a negative kd ratio. And it's just this weekend so far, before I was top fragging. And I think it's not even something to do with me needing a break, because I'm not allowed to play during school days anyway so I get a 5 day break no matter what and when I started playing on Friday I was excited and ready to play Valorant, but yeah I played like trash like I said. And I whiffed so many shots on easy targets too and they just turned and one tap me, and even on targets who know I'm there I still had an easy chance to kill them bc they aren't perfect either but I still whiffed and they got me. My aim is very good for my rank but not this weekend. I don't even think it's a mindset problem either bc each and every game I was ready to top frag and do well and have some fun and I wasn't tilt queuing, but I still just did bad, so idk about mindset. I used to have a 1.21 kd now its gonna way down to 1.12 which is sad bc ik I'm better than that. Now my friend told me to play unrated for some time, and reset my aim and everything, which sounds like a great idea to me, and I was thinking I'll do that and use guardian only in unrated to fix the whiffing, does this sound like a good idea? And if there's anything else that you guys think can help please help I'm ready to get back in it and do well. 
+
+My tracker: https://tracker.gg/valorant/profile/riot/MonerukedeezNuts%23monke/overview
+
+Don't mind the name lmao 💀 it's an inside joke.",False,False,VALORANT,All if a sudden I am horrible,0.6,https://www.reddit.com/r/VALORANT/comments/17dv365/all_if_a_sudden_i_am_horrible/
+Snoo44506,1697985194.0,17dum9z,False,True,Discussion,False,t3_17dum9z,3,False,/r/VALORANT/comments/17dum9z/are_there_bots_in_the_game_now/,3,"I was playing some deathmatch on frankfurt servers and came across some ""players"" who where just walking in one direction and doing nothing, they also had the same agent as some people. this is pretty weird
+
+[Image of leaderboard](https://imgur.com/a/gzSFSo5)",False,False,VALORANT,Are there bots in the game now?,0.8,https://www.reddit.com/r/VALORANT/comments/17dum9z/are_there_bots_in_the_game_now/
+Odd-Tiger-2928,1697982353.0,17dtncc,False,True,Question,False,t3_17dtncc,2,False,/r/VALORANT/comments/17dtncc/jett_ult_new_voiceline/,0,"I have gotten 6 aces since the release of the new voiceline and only heard it twice, rest of the times it has been the older one. It makes me quite sad cuz i love "" BU- BU- BU- BUMM"". is it just cuz it alternates between the two or is it randomised?",False,False,VALORANT,Jett ult new voiceline,0.33,https://www.reddit.com/r/VALORANT/comments/17dtncc/jett_ult_new_voiceline/
+bumblebleebug,1697981503.0,17dtd82,False,True,Discussion,False,t3_17dtd82,38,False,/r/VALORANT/comments/17dtd82/does_anyone_hate_those_kids_who_instalock_a/,41,"I've encountered this a lot of times. I've gotten toxic shit-talk over this a lot of times. These players will instalock a character and then expect their teammates to give up an agent in which they're mastered to a point, and when they don't, they'll keep on either throwing the whole game or flame their teammates for not knowing their util well.
+
+I've been flamed a lot of times because I picked Deadlock over Sage. I don't even understand what's so great about Sage. I get it, mine is weakest sentinel but there are far much better sentinels than Sage like KJ or Cypher.
+
+The same happened with my teammate today when she was playing. Those two little shits started flaming her because she couldn't place smokes well as Brimstone (she plays with Jett and Gekko mainly). Is it just my server's issue or has anyone also faced this?",False,False,VALORANT,Does anyone hate those kids who instalock a duelist and scream at teammates to play Sage or a controller?,0.81,https://www.reddit.com/r/VALORANT/comments/17dtd82/does_anyone_hate_those_kids_who_instalock_a/
+CharacterSky3909,1697969858.0,17dq4kt,False,True,Discussion,False,t3_17dq4kt,1,False,/r/VALORANT/comments/17dq4kt/a_newbie/,1,"Just started my pc game journey what should I pick first 
+Fortnite or valorant just confused between these two.. 
+Just want your opinion guys!! 
+Hooe the answer will be good",False,False,VALORANT,A newbie,1.0,https://www.reddit.com/r/VALORANT/comments/17dq4kt/a_newbie/
+TisselTasselTassel,1697977505.0,17ds3hl,False,True,Discussion,False,t3_17ds3hl,5,False,/r/VALORANT/comments/17ds3hl/did_not_get_rr_for_a_win/,1,"I got some kind of error message instead of showing the end results, I clicked ok, thinking I could go to ""career"" to see it, the results of the game were there but same RR as before the game.
+
+Is this a known bug?",False,False,VALORANT,Did not get RR for a win,0.67,https://www.reddit.com/r/VALORANT/comments/17ds3hl/did_not_get_rr_for_a_win/
+JanHarveyBeaks,1697979262.0,17dsmjn,False,True,Discussion,False,t3_17dsmjn,1,False,/r/VALORANT/comments/17dsmjn/agent_change_suggestions/,0,"satire
+
+CONTROLLER
+
+Viper
+
+Agents near or inside ""Poison Cloud"", ""Toxic Screen"" or ""Viper's Pit"" will have Intoxicated debuff
+
+Intoxicated debuff
+-The agent is forced to cover their mouth with one hand to avoid inhaling Viper's poison. In order to protect themselves, the agent will use their other hand to equip their secondary weapon/firearm or knife
+
+Harbor
+
+Cascade (C)
+EQUIP a wave of water. FIRE to send the wave rolling forward and through walls. RE- USE to stop the wave. Players hit are WET. HOLD to control the direction of the wave.
+
+Wet
+Agents who are wet will be slowed for 1s and leaves wet footprints for 10s
+
+Reckoning (X)
+EQUIP the full power of your Artifact. FIRE to summon a pool of water. Enemy players in the area will have whirlpools on their feet preventing them from moving, followed by geyser strikes. Playeds caught within a strike are CONCUSSED
+
+Brimstone
+
+Incendiary (Q)
+EQUIP a tactical map. FIRE to set locations where Brimstone's air-strikes will land. ALT FIRE to confirm, launching a grenade that detonates as it comes to a rest on the floor, creating a lingering fire zone that damages players within the zone.
+
+Orbital Strike (X)
+EQUIP a tactical map. FIRE to launch a lingering orbital strike laser at the selected location, dealing high damage-over-time to players caught in the selected area. HOLD and DRAG to set a path for the orbital strike laser to follow
+
+Astra
+
+Astral Form (X)
+Activate to enter Astral Form where you can place stars with primary fire. Stars can be reactivated later, transforming them into a Nova Pulse, Nebula, or Gravity Well.
+
+When cosmic divide is charged, use secondary fire in astral form to begin aiming it, then primary fire to select two locations. An infinite cosmic divide connects the two points you select. Cosmic divide blocks bullets and heavily dampens audio. She can see the map, aswell as all players in it
+
+INITIATOR
+
+Breach
+
+Flashpoint (Q)
+EQUIP a blinding charge. FIRE the charge to set a fast-acting burst through the wall. HOLD to control where the burst appears. The charge detonates to Blind all players looking at it.
+
+Rolling Thunder (X)
+EQUIP a Seismic Charge. FIRE to send rows of cascading quake followed by rows of AFTERSHOCK that shoot from the ground through all terrain in a large cone. The quake Concusses and knocks up anyone caught in it.
+
+Sova
+
+Recon bolt (E)
+Bounce increase 3>7
+Charge increase 5>5
+
+Shock dart (Q)
+Bounce increase 3>7
+Charges increase 3>5
+
+Hunter's Fury (X)
+EQUIP a bow with wall-piercing energy blasts. FIRE to release a energy blast that lasts 5s and can slowly be aimed in a line in front of Sova, dealing damage and Revealing the location of enemies caught in the line thrice.
+
+SENTINEL
+
+Cypher
+
+Trapwire (C)
+EQUIP a trapwire. FIRE to place a destructible and covert tripwire at the targeted location, creating a line that spans between the placed location and the wall opposite. Enemy players who cross a tripwire will be Tangled and Detained, aswell as Revealed. This ability can be picked up to be REDEPLOYED.
+
+Chamber
+
+Rendezvous (E)
+EQUIP a teleport anchor. FIRE to place it on the ground. While on the ground and in range of the anchor, REACTIVATE to quickly teleport to the anchor. The anchor can be picked up to be REDEPLOYED. ALT FIRE to throw the credit card and instantly teleport to where it lands.
+
+Killjoy
+
+Turret (E)
+Turret gets an odin
+
+Sage
+
+Resurrection (X)
+EQUIP a resurrection ability. FIRE to unleash a massive wave of life, ressurecting dead teammates within a small area. After a brief channel, the ally/allies will be brought back to life with full health.
+
+DUELIST
+
+Raze
+
+Blast Pack (Q)
+INSTANTLY throw a Blast Pack that will stick and camouflage on surfaces. RE-USE the ability after deployment to detonate, damaging and moving anything hit. Raze isn't damaged by this ability, but will still take fall damage if launched up far enough. Blast Pack will automatically detonate when in contact with Enemy player
+
+Boom Bot (C)
+EQUIP a Boom Bot with 2 grenades taped on it. FIRE will deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in its frontal cone and chase them, exploding for heavy damage if it reaches them. If the Boom Bot bounces off a wall, a grenade will fall out and detonate which does damage and creates sub-munitions, each doing damage to anyone in their range. If the Boom Bot explodes on an Enemy player with grenades intact, the grenades will explode with the Boom Bot dealing extra damage and a wider AoE
+
+Jett
+All nerfs undone
+
+Yoru
+
+Fakeout (C)
+EQUIP an echo that transforms into a mirror image of Yoru when activated. FIRE to instantly activate the mirror image and send it forward. ALT FIRE to place an inactive echo. USE to transform an inactive echo into a mirror image and send it forward. HOLD to control the mirror image walking direction. Mirror images explode in a Blinding Flash when destroyed by enemies.",False,False,VALORANT,Agent change suggestions,0.5,https://www.reddit.com/r/VALORANT/comments/17dsmjn/agent_change_suggestions/
+ImDankKS,1697960769.0,17do1qu,False,True,Question,False,t3_17do1qu,6,False,/r/VALORANT/comments/17do1qu/are_some_riot_developers_biased/,0,"This is just from my personal experience but I would like to share it to everyone so you can view it from my POV.
+
+To start off, I have been playing Valorant for about 2-3 years now. I stream occasionally on twitch and I play on the APAC servers. I will not lie, I am extremely interested in getting the Riot Gun Buddy. Of course, this post isn't meant to ask for it, but to discuss with everyone how SOME Riot developers are biased towards certain players.
+
+I have many friends, females and males. So far, I have three friends who have a Riot Gun Buddy. Three must be a lot, considering the amount of Buddies they can give out. Coincidence or not, however, all three players are females, they have what people would call nowadays, a nice voice. Bonus point, they started streaming for a month and they got the buddies no questions asked. Two of them are even toxic to players just because they have the buddies(in my experience). Now for the male friends I have, we play a lot because Valorant is fun, not for the buddies but is it weird that none of us have the Riot Gun Buddy? Is this biased? You decide.
+
+For my personal experience with Riot developers/employees, I met them three times on separate occasions. Our team was comming, bringing good vibes and positivity. This was not because we saw the Rioter or saw a buddy, we were just geniunely nice. All these teammates were very nice to each other and coincidence or not, were all males. None of us got it. Maybe they ran out of buddies, maybe they didn't prefer giving it to guys? I don't know. Is this biased?
+
+Am I jealous? Do I want the buddy? Yes.
+Am I complaining/crying for the buddy? No.
+
+TLDR: Rioters gave 3 girls Riot Buddy on sepearate occasions, Rioters do not give guys Riot Gun Buddies. Are they biased?",False,False,VALORANT,Are some Riot developers biased?,0.35,https://www.reddit.com/r/VALORANT/comments/17do1qu/are_some_riot_developers_biased/
+MegaTorterra220,1697971230.0,17dqg5u,False,True,Question,False,t3_17dqg5u,20,False,/r/VALORANT/comments/17dqg5u/agent_buy_deadlock_vs_iso/,3,"Like the title says, i have 8k kingdom creds. Should i buy deadlock(the only agent i don't own) or should i save it for Iso?",False,False,VALORANT,Agent buy: Deadlock vs Iso,0.64,https://www.reddit.com/r/VALORANT/comments/17dqg5u/agent_buy_deadlock_vs_iso/
+Kit-ra,1697973311.0,17dqyup,False,True,Discussion,False,t3_17dqyup,8,False,/r/VALORANT/comments/17dqyup/psa_for_new_players_play_ranked_to_play_with/,23,"I can not tell you how frustrated I have been trying to play unranked thinking ""all the crazy mother fuckers are in ranked, unranked will be chill so I can learn and grow"" - an absolutely 100% incorrect assessment and I admit that now. If you want to play with people of similar skill levels and not play with people who seem to one-tap you within .25 seconds of seeing you, you've got to get your ass into ranked so that you're current level is registered and the game will pair you with people of similar skill level. It's tits all the way.  
+
+
+After hitting level 20, queue up competitively and get ready for no more than 5 potentially painful rounds. After which the game will assign you a rank and the quality of matches you get will change dramatically and you won't feel like a complete scrub among gods. At least this has been my experience, the games feel much better, and I feel competitive with the people I play with and against.  
+
+
+Whatever you do, don't think playing unranked all the time is the best option because it's not. ",False,False,VALORANT,PSA FOR NEW PLAYERS: Play ranked to play with people of similar skill level.,0.93,https://www.reddit.com/r/VALORANT/comments/17dqyup/psa_for_new_players_play_ranked_to_play_with/
+iamgnud,1697958957.0,17dnmd9,False,True,Art,False,t3_17dnmd9,0,False,/r/VALORANT/comments/17dnmd9/i_used_photoshop_to_make_iso_look_more_like_his/,7,"I find the original in-game model looks way too nice compared to his art; the lore makes him a ""cold assassin, a myth with lots of stories, John Wick-es"" kind of character, I wanted to make him look meaner
+
+https://preview.redd.it/phae00ppfpvb1.png?width=1280&format=png&auto=webp&s=2235fa5b46e1aba6ac70ad08d6c228e6a79a439f",False,False,VALORANT,I used Photoshop to make Iso look more like his 2D art,1.0,https://www.reddit.com/r/VALORANT/comments/17dnmd9/i_used_photoshop_to_make_iso_look_more_like_his/
+Agitated_Prior7108,1697973703.0,17dr2n0,False,True,Discussion,False,t3_17dr2n0,32,False,/r/VALORANT/comments/17dr2n0/how_do_you_get_the_confidence_to_comm/,16,"I wanna use comms but when I comm and no one responds it feels wierd
+I also feel like I have a baby voice which dosnt help
+I don't mind using comms if there's a extrovert in comms 
+So any tips like how you guys got the confidence",False,False,VALORANT,How do you get the confidence to comm,0.79,https://www.reddit.com/r/VALORANT/comments/17dr2n0/how_do_you_get_the_confidence_to_comm/
+DjDawber,1697972470.0,17dqqzu,False,True,Art,False,t3_17dqqzu,3,False,/r/VALORANT/comments/17dqqzu/i_made_cyphers_hat_out_of_cardboard/,5,"https://imgur.com/gallery/RG7GNUE
+
+The design is slightly tweaked and not accurate, I'd love to hear your thoughts and suggestions!",False,False,VALORANT,I made Cypher's hat out of Cardboard,0.86,https://www.reddit.com/r/VALORANT/comments/17dqqzu/i_made_cyphers_hat_out_of_cardboard/
+Yukino_Midori,1697971830.0,17dql9j,False,True,Discussion,False,t3_17dql9j,2,False,/r/VALORANT/comments/17dql9j/low_rank_flicks/,2,"I’m teetering between gold 3 and plat 1. I get very excited when I hit a flick, or sometimes when my wrist just flicks on it’s own. It’s daunting and leaves me speechless. For high elo players they’re used to this but not me. Maybe it’s just me. Do you guys still get excited no matter the rank? I also go crazy when my teammates hit nasty shots and clutch. Positive energy only! When they don’t have the same reaction it becomes kinda awkward, as in they’re used to it.",False,False,VALORANT,Low rank flicks,0.67,https://www.reddit.com/r/VALORANT/comments/17dql9j/low_rank_flicks/
+Eziowannagrad,1697967524.0,17dpkzp,False,True,Art,False,t3_17dpkzp,3,False,/r/VALORANT/comments/17dpkzp/i_drew_iso/,32,"&#x200B;
+
+[translation: ah? what did you say? I have headphones on uwu. I'm not on reddit alot but i wanted to share this](https://preview.redd.it/k1zonr415qvb1.png?width=2000&format=png&auto=webp&s=7629857ed28364b556ac593ec4a367f99d71557a)",False,False,VALORANT,I drew Iso,0.94,https://www.reddit.com/r/VALORANT/comments/17dpkzp/i_drew_iso/
+likeyatasteGOOD,1697966888.0,17dpftz,False,True,Discussion,False,t3_17dpftz,75,False,/r/VALORANT/comments/17dpftz/how_long_do_we_think_valorant_will_live/,61,"I don't really see a whole lot of discussion about this topic, but how long do we think Valorant will live? I mean, a company like riot being the creators of Valorant has the benefit of essentially having infinite resources to make the game potentially better, but from their reputation with LoL where they sort of just release skins and patches instead of actually adding content that is fun and engaging instead of just ranked being the only played gamemode. I should add that I personally don't think that Valorant is going to drop in players by a significant amount for a VERY long time, possibly 5+ years let alone die out.",False,False,VALORANT,How long do we think Valorant will live,0.76,https://www.reddit.com/r/VALORANT/comments/17dpftz/how_long_do_we_think_valorant_will_live/
+YeomanFern,1697966235.0,17dpagl,False,True,Art,False,t3_17dpagl,1,False,/r/VALORANT/comments/17dpagl/ongoing_work_rogue_omen_im_doing_for_a_cyberpunk/,8,"A friend suggested me to share the ongoing art of our campaing as this is how I always imagined omen under his hood/scarf. All the sweater and left arm need to be finished, all in general need to be polished, I hope you like it :D
+
+https://preview.redd.it/n07puxm31qvb1.png?width=845&format=png&auto=webp&s=f759dba64b3688d1b758d93185252fb7c705d9e2",False,False,VALORANT,Ongoing work Rogue Omen I'm doing for a cyberpunk rol campaing where he was betrayed,1.0,https://www.reddit.com/r/VALORANT/comments/17dpagl/ongoing_work_rogue_omen_im_doing_for_a_cyberpunk/
+HaruftHanae,1697960702.0,17do15n,False,True,Discussion,False,t3_17do15n,3,False,/r/VALORANT/comments/17do15n/need_help_in_understanding_the_placements/,0,"Umm I need some enlightenment because I am kind of new to the game's placement logic\*\*,\*\* I'm currently Diamond on my main but seen some of my friends skip ranks and all after few matches. When I searched up for it on the internet I wasn't cleared off my doubts. So I decided to start off fresh again. After I unlocked competitive which was after 26 wins and 8 losses, I was first put up into a full-fledged Asc lobby, but my teammates threw the game, after that I was put into a Diamond lobby, then Gold, and lastly silver. After the placement, I'm currently on Gold I 50rr. I won 1 out of 5 placement games, not to mention I 20+ fragged on all 5 games but them teammates idk what to say. And all of the games I played before comp was unlocked, I got match mvps on 80% of the unranked games with 20-40 frags each games. I still don't understand how ranking and placements work. Can some one please explain me clearly?",False,False,VALORANT,Need help in understanding the placements.,0.5,https://www.reddit.com/r/VALORANT/comments/17do15n/need_help_in_understanding_the_placements/
+No_Worldliness_8893,1697957544.0,17dnabv,False,True,Question,False,t3_17dnabv,1,False,/r/VALORANT/comments/17dnabv/maining_agent_again_for_scratch/,0,"If I was too start over to main a agent for example I’m a sova main but I would like to learn breach, Skye, and Ko to expand my roaster for scrims and such what guides would u look at,  and where would u start",False,False,VALORANT,Maining Agent Again (For Scratch)?,0.33,https://www.reddit.com/r/VALORANT/comments/17dnabv/maining_agent_again_for_scratch/
+ValoBot,1697957359.0,17dn8r2,False,False,Esports,False,t3_17dn8r2,0,False,/r/VALORANT/comments/17dn8r2/tournament_announcement_blast_spike_nations_4/,2,,False,False,VALORANT,"[Tournament Announcement] BLAST Spike Nations #4 begins TOMORROW Oct 23, prize pool is TBD",1.0,https://www.vlr.gg/event/1861/blast-spike-nations-4
+Snoo_50786,1697954929.0,17dmo1n,False,False,Question,False,t3_17dmo1n,18,False,/r/VALORANT/comments/17dmo1n/why_did_my_marshal_not_do_any_damage_to_the_reyna/,0,,False,False,VALORANT,Why did my marshal not do any damage to the reyna here?,0.28,https://v.redd.it/e312opgp3pvb1
+GrosNinja,1697953369.0,17dmaba,False,True,Discussion,False,t3_17dmaba,73,False,/r/VALORANT/comments/17dmaba/new_agent_troll_teaser/,421,"Can we talk about this for a moment?:
+
+Riot: *Upload video of a new agent having good accuracy on a target*
+
+Players: ""Oh no the new agent will have aimbot""
+
+Riot: ""Yep, you guessed it right. The new agent will have a SHIELD""",False,False,VALORANT,New agent troll teaser,0.95,https://www.reddit.com/r/VALORANT/comments/17dmaba/new_agent_troll_teaser/
+Organic_Leader_5019,1697952290.0,17dm0ew,False,True,Discussion,False,t3_17dm0ew,8,False,/r/VALORANT/comments/17dm0ew/losing_duels/,0,"I'm losing duels i shouldn't be losing. I lose to players that I shoot first, idk maybe it's ping because it spikes from 40-70 or maybe I'm just bad idk anymore i feel like quitting this game",False,False,VALORANT,Losing duels,0.42,https://www.reddit.com/r/VALORANT/comments/17dm0ew/losing_duels/
+Flimsy_Card8028,1697945436.0,17dk6dw,False,True,Question,False,t3_17dk6dw,3,False,/r/VALORANT/comments/17dk6dw/can_we_change_skins_in_range/,1,"Referring to skins we already own.  So we don't have to keep exiting the range, changing it then loading the range again.",False,False,VALORANT,Can we change skins in range?,0.6,https://www.reddit.com/r/VALORANT/comments/17dk6dw/can_we_change_skins_in_range/
+kfergsa,1697944058.0,17djr50,False,True,Discussion,False,t3_17djr50,7,False,/r/VALORANT/comments/17djr50/how_to_make_escalation_far_more_fun/,0,"Map is always on or no sound to discourage camping corners. I’m trying to play escalation, not camping simulator. Take out at least the boombot, holy moly the most boring experience ever. I would like to take out all abilities though. Take out the shorty completely.
+
+Thoughts?",False,False,VALORANT,How to make escalation far more fun,0.29,https://www.reddit.com/r/VALORANT/comments/17djr50/how_to_make_escalation_far_more_fun/
+Agreeable-Week-3658,1697938405.0,17di023,False,True,Question,False,t3_17di023,11,False,/r/VALORANT/comments/17di023/how_do_i_play_against_people_my_level/,12,"My friend and I keep getting against people who clearly have thousands of hours in unrated despite being level 2, how do I play against people who are just starting out as well?",False,False,VALORANT,How do I play against people my level,0.83,https://www.reddit.com/r/VALORANT/comments/17di023/how_do_i_play_against_people_my_level/
+No_Library_3131,1697934930.0,17dgw3t,False,True,Question,False,t3_17dgw3t,23,False,/r/VALORANT/comments/17dgw3t/are_ranks_of_every_region_the_same_or_are_they/,26,"im sure radiant's have the same skillset in every region. but im talking about the lower ranks like plat, diamond and ascendant? is one region better than the other? the reason im asking this is because. im g3 player. so i played in the Hong Kong server with a friend from Tokyo while im from India. i bottom fragged that match. then we went and played in sg server. she top fragged despite having high ping like me. she's only plat 1. i played a few matches against plat and i didnt think there was much difference btw me and them. but after playing with her i started wondering whether there is skillset gap  btw regions? or did i meet fake plats?",False,False,VALORANT,Are ranks of every region the same or are they different,0.91,https://www.reddit.com/r/VALORANT/comments/17dgw3t/are_ranks_of_every_region_the_same_or_are_they/
+_Notus_,1697936065.0,17dh94o,False,True,Question,False,t3_17dh94o,1,False,/r/VALORANT/comments/17dh94o/free_editing/,1,Hey I'm trying to build my portfolio of videos so I can get more clients. Can you guys send me some videos or vods to edit?,False,False,VALORANT,Free editing,0.67,https://www.reddit.com/r/VALORANT/comments/17dh94o/free_editing/
+titsequalthumbs,1697925859.0,17ddqow,False,True,Question,False,t3_17ddqow,9,False,/r/VALORANT/comments/17ddqow/as_a_new_player_how_do_i_run_and_shoot_or_jump/,13,"Weird question, i know. I thought you weren't able to, and most of my games confirm that except the last one i played and i think maybe theres some stuff i should learn. I do know what strafe, stop, shooting is i do it myself
+
+I know neon is very mobile with her running and she can slide and all, but isn't her accuracy decreased when she slides? if not, then question answered. I just kept getting slide-one shot headshot by a neon
+
+Next question, same as Neon i suppose. does Raze's rocket jump thing decrease her accuracy? same as before, if not then answered. Had a rocket jumping OP'ing raze and it made me realize i need even more aim practice
+
+finally, there was a character who was a girl, not sure who but i did 180 damage to her to the head with a few bullets and she still lived then subsequently killed me. Does armor reduce headshot shots as well, and if not is there some character who has headshot protection as an ability or something similar? Or an upgrade in the shop i was unaware about that maybe absorbs a headshot
+
+thank you for any answers, i just got destroyed in a game and would like to learn these characters or the tricks they may have been using. They full on rushed wiped our team every time except two rounds",False,False,VALORANT,"As a new player, how do i run and shoot or jump and shoot?",0.78,https://www.reddit.com/r/VALORANT/comments/17ddqow/as_a_new_player_how_do_i_run_and_shoot_or_jump/
+No-Conference-2827,1697923463.0,17dcu9m,False,True,Question,False,t3_17dcu9m,2,False,/r/VALORANT/comments/17dcu9m/does_the_accessory_shop_sell_non_battlepass_items/,2,"Hello, I've been wondering if it's possible to get the MMXX EP1 banner from the accessories shop, or does the shop exclusively sell only the battlepass items.",False,False,VALORANT,Does the accessory shop sell non battlepass items?,1.0,https://www.reddit.com/r/VALORANT/comments/17dcu9m/does_the_accessory_shop_sell_non_battlepass_items/
+Zukoo777,1697931864.0,17dfvnq,False,True,Discussion,False,t3_17dfvnq,112,False,/r/VALORANT/comments/17dfvnq/what_do_you_guys_do_when_theres_a_cheater_on_your/,202,"So I just had a cheater in my ranked immo game and the enemy team got so mad we were all still playing the game, essentially getting ‘boosted by the cheater’ what do they expect me to do? I’m not gonna go afk with spike and get reported in the progress…
+
+I reported him early in the game already, Ended up winning the game with the cheater not being banned midgame.
+
+I feel like surrendering or not playing at all is just a weird thing to say to the players in the cheaters team. It’s not their fault they got teamed up with a cheater. Why should they HAVE to lose the game. Should definitely report him and try to get the game canceled but losing the game is just stupid imo.
+
+What do yall do when theres cheaters in your game? And do you think I’m in the wrong for still playing like normal?",False,False,VALORANT,What do you guys do when there’s a cheater on your team?,0.93,https://www.reddit.com/r/VALORANT/comments/17dfvnq/what_do_you_guys_do_when_theres_a_cheater_on_your/
+FWDtv,1697931009.0,17dfl6r,False,False,Gameplay,False,t3_17dfl6r,1,False,/r/VALORANT/comments/17dfl6r/iso_in_a_nutshell/,1,,False,False,VALORANT,ISO In a Nutshell,0.57,https://youtu.be/x3NnEYmm6zY?si=s6AMZ0YwCJW-FNUR&t=1
+Confident-Nobody2537,1697930465.0,17dfelp,False,True,Discussion,False,t3_17dfelp,11,False,/r/VALORANT/comments/17dfelp/should_isos_orbs_stack/,0,"For example, if he gets two kills and then shoots both orbs, should this give him a double layered shield that takes two instances of any type of damage to break? I was trying to think of changes that could make his signature ability better because it seems weak to me. What do you think?",False,False,VALORANT,Should ISO's orbs stack?,0.27,https://www.reddit.com/r/VALORANT/comments/17dfelp/should_isos_orbs_stack/
+InItinere,1697930270.0,17dfc6v,False,False,Gameplay,False,t3_17dfc6v,0,False,/r/VALORANT/comments/17dfc6v/1vs4_with_sheriff/,0,This is why you shouldn't ego push the eco enemy.,False,False,VALORANT,1vs4 with sheriff,0.25,https://medal.tv/it/games/valorant/clips/1vQzZRv032k4u8/CLTSgO2yJ4qd?invite=cr-MSxrSHAsMjAyOTAzNDgzLA
+icerock547,1697927054.0,17de6wn,False,True,Discussion,False,t3_17de6wn,50,False,/r/VALORANT/comments/17de6wn/there_should_be_more_ethnic_respresentation/,0,More and more agents are coming out but some of them are now overlapping ethnicities which isnt bad but I just want a vietnamese agent or at least from other countries likes south africa or ireland,False,False,VALORANT,There should be more ethnic respresentation,0.3,https://www.reddit.com/r/VALORANT/comments/17de6wn/there_should_be_more_ethnic_respresentation/
+Strict_Ad6860,1697925794.0,17ddptf,False,False,Gameplay,False,t3_17ddptf,34,False,/r/VALORANT/comments/17ddptf/insane_sova_1v5_ace_in_immortal_lobby/,381,,False,False,VALORANT,Insane sova 1v5 ace in immortal lobby,0.96,https://v.redd.it/bdahgwn3pmvb1
+due_,1697924399.0,17dd6yx,False,True,Discussion,False,t3_17dd6yx,4,False,/r/VALORANT/comments/17dd6yx/sage_heal_rework/,2,"As you all may know, Sage’s heal when it comes to healing herself isn’t the greatest, giving her a whopping 30 health over the course of 10 seconds. However, when it comes to healing teammates, she excels in this as the main healer of the game, giving teammates a full 100 health over the course of 5 seconds. With this in mind, I was thinking of a possible solution to making Sage’s heal a little better for herself in those certain situations where she needs the health, in exchange for the healing of her teammates.
+
+My suggestion for the rework would be a gradual heal to herself whenever, giving her gradual health whenever you use the heal on yourself. Similar to Skye’s heal, where you have to hold the mouse button to heal her teammates around her, this could be done in a similar fashion with Sage, where her right click could be a hold on the mouse button and gradually heal herself.
+
+The Animation:
+
+[https://www.youtube.com/watch?v=XfuMEmcz3k0&ab\_channel=VALORANT](https://www.youtube.com/watch?v=XfuMEmcz3k0&ab_channel=VALORANT)
+
+In this REVELATION Episode 6 Cinematic, at 2:04, Sage is seen getting shot by one of the training bots and she retreats to cover, healing herself in the process. I think grabbing one arm at the forearm with the other hand type of animation could assist with this self-heal rework.
+
+The Balance:
+
+Now, this may seem broken but it should be seen as a scale, where it must always be balanced. Sage should be able to heal herself up to 50 health per charge, and can use it whenever she wants, similar to Skye’s heal. But as she takes health from her bar, Sage loses the heal’s strength on a heal for a teammate. For example, if Sage healed herself for 40 health, or 50% of the heal, it would take away 40% of the heal for the teammate, giving them now 60 health instead of the full 100HP.
+
+Self-Inflicted Heal:        0   10 20 30 40 50
+
+Heal for Teammates: 100 90 80 70 60 50
+
+The Heal would also still have a 45 second cool down for teammates, and once Sage completely depletes the heal herself, it will also have a 45 second cool down. I think that this balances out the change in her heal, while still providing a better heal for herself.
+
+What do you all think?",False,False,VALORANT,Sage Heal Rework,0.56,https://www.reddit.com/r/VALORANT/comments/17dd6yx/sage_heal_rework/
+HelpfulTitle1235,1697923792.0,17dcyqk,False,True,Question,False,t3_17dcyqk,1,False,/r/VALORANT/comments/17dcyqk/my_premier_team_is_intermediate_3_does_anyone/,1,"My Premier team is Intermediate 3, we've tried adding people from p1 to silver 3 to the team but none are ""within the team's mmr"" despite that being the ranks of our current players.",False,False,VALORANT,"My Premier team is Intermediate 3, does anyone know what rank someone has to be to be added to our team?",0.67,https://www.reddit.com/r/VALORANT/comments/17dcyqk/my_premier_team_is_intermediate_3_does_anyone/
+One_Beat6613,1697923736.0,17dcy0h,False,False,Gameplay,False,t3_17dcy0h,0,False,/r/VALORANT/comments/17dcy0h/valorant_asmr_one_taps/,0,"threw all my leftover clips together and made this, lemme know what yall think",False,False,VALORANT,valorant asmr one taps,0.2,https://youtu.be/2xlOVPUOyvM?si=mxnvx4n2kuc4nc4v
+june_47,1697915361.0,17d9xt8,False,True,Question,False,t3_17d9xt8,1,False,/r/VALORANT/comments/17d9xt8/new_battlepass_is_there_any_information_on_which/,2,"I know most of the community doesnt care about the battlepass skins but i started the game few months ago and currently battlepass skins are everything for me. 
+
+Pretty excited about the new dagger but i dont like the colors.
+
+ Is there any information or leaks on which collection is going to have variants ? I have been trying to find since ISO reveal but couldnt get any info 
+
+Or is there some rule or pattern from the previous battlepasses to tell which collection might get variants ?",False,False,VALORANT,(new battlepass) is there any information on which collection is going to have variants from the battlepass?,1.0,https://www.reddit.com/r/VALORANT/comments/17d9xt8/new_battlepass_is_there_any_information_on_which/
+pwaty,1697922797.0,17dclcn,False,True,Discussion,False,t3_17dclcn,7,False,/r/VALORANT/comments/17dclcn/hypothetical_sage_buff/,0,"I definitely will always be a Sage main (though I can play other agents) but I always like to bring up a “what if” they did this to Sage and buff her.
+
+Imagine if Sage had an ultimate ability that had two choices.. 
+
+The first being the original ult - resurrection to bring a dead teammate back. However you have to be on top of or head towards that dead teammate body.
+
+The second would be the choice of Sage being able to sacrifice their own life to bring a teammate from anywhere on the map without needing to be on top of that body or having to locate to that spot.
+
+Maybe it is or isn’t a buff but I just always wondered what change they could do when it comes to Sage and their utilities/ult.",False,False,VALORANT,Hypothetical Sage Buff,0.44,https://www.reddit.com/r/VALORANT/comments/17dclcn/hypothetical_sage_buff/
+baebushka,1697922386.0,17dcfr9,False,False,Gameplay,False,t3_17dcfr9,63,False,/r/VALORANT/comments/17dcfr9/guess_my_rank_from_this_clip_though_i_got_pretty/,263,,False,False,VALORANT,"guess my rank from this clip, though i got pretty lucky being at 1 hp ",0.91,https://v.redd.it/zscsj9ynemvb1
+Faint_ish,1697921276.0,17dc1fw,False,False,Discussion,False,t3_17dc1fw,0,False,/r/VALORANT/comments/17dc1fw/hero_shooters_and_why_they_are_cool_including/,0,,False,False,VALORANT,HERO SHOOTERS and why they are cool!!! (including Valorant),0.33,https://youtu.be/SIWf715wVmU?feature=shared
+Xineth_,1697920712.0,17dbues,False,False,Gameplay,False,t3_17dbues,27,False,/r/VALORANT/comments/17dbues/almost_clutched/,694,,False,False,VALORANT,Almost clutched...,0.96,https://v.redd.it/818q46as9mvb1
+Illustrious_Gold_763,1697919002.0,17db8hw,False,True,Discussion,False,t3_17db8hw,31,False,/r/VALORANT/comments/17db8hw/iso_is_another_one_of_riots_failures/,0,"Remember the days of powerhouse agents on launch like Chamber or Astra or even Kayo? Yeah me neither. Obviously I understand the need to balance the agent and balance the power creep but it feels like they've been going too far with it for their recent agents. The last agent that really shook up the meta was Fade over a year ago. After Fade we've just been getting weak agent after weak agent. Harbor, Gekko, don't even get me started on Deadlock, and now Iso (which I'll get to in a minute) and I think that the meta being so unaffected by new agent releases is partially why valorant is so boring now. If there's never going to be a strong alternative to Raze/jett or viper or sova, then why even waste time releasing new agents? They're gonna see some play on launch and then never be touched again.
+
+Ok now before people get mad let me explain why I think Iso is another failure. Ik he hasn't released yet but even the pros and content creators who tried him out early can all agree on one thing: he's mid and he won't see much higher up play. I think that he just doesn't fulfill his role as a duelist without flashes, movement, or just a generally strong enough kit. His C, which is clearly meant to be his entry tool to protect his team when getting on site, isn't a strong ability. I mean the concept of a bulletproof shield is very strong, but they didn't execute it properly, making the shield too small to protect a team. The fact that you can't stop it to block off a choke point for the duration is understandable, but it's because it lacks that sort of flexibility that the ability will likely be very niche compared to something like a jett smoke which does essentially the same job. His Q is the best ability in his kit and I'd argue it's one of the top duelist abilities in general so I won't talk about it. His E, like his C, has a strong concept but it suffers from so many problems that it basically kills the use of it. It suffers from the same issue as reyna's util which is that you have to get a kill to use it but I'll look past that for now because I feel like they at least made that aspect somewhat rewarding. But when you get the kill, you shouldn't have to absolutely ruin your crosshair placement just to get a shield from one bullet. When reyna uses her dismiss, she just has to hit e without risking anything. If someone swings the iso to trade their teammate and he's caught while he's trying to shoot the orb, he's dead without question. Reyna's dismiss guarantees her safety and not for just one bullet, but for long enough for her to get ready to reengage. Also this is just a nitpick and you probably won't see this often in game, but I think it's so stupid how an enemy can actually shoot the orb before you to break it. When are you going to add the update where you can destroy soul orbs riot? Or did you kind of forget that Reyna doesn't have this for what's objectively a stronger ability? 
+
+Lastly, his ultimate. Aesthetics and amazing visuals aside, I don't think I've seen a more useless ultimate in any game ever than the ultimate he has rn. Let's take a look at two of the other bad ults in the game shall we?
+
+Omen - allows him to reposition anywhere he wants and play mindgames with his opponent.
+
+Cypher - allows his whole team to get the positions of enemies. Although the info isn't much, it can be clutch when an enemy is lurking or about to flank your team and in a 1v1 situation, knowing where they are can be key.
+
+Although the ults above are bad, they both have one thing in common: they both give you an advantage in winning the round. Do I even have to talk about how bad a 1v1 ult is without any advantage or any reward is? The ulting Iso having the second shield in the 1v1 isn't an advantage for whoever was about to comment that. If you're hiding behind one of the two shields, you won't be able to see if the enemy just wideswings you. And if you arent hiding behind the shields, then how would that be considered an advantage in the first place? If the enemy just headshots you and wins, what was the point of all 7 ult points? Just to die without any effect on the round outcome? It's not even like the enemy keeps the damage you dealt, they're just reset to the health they had before you challenged them. If you ult someone and lose, you turn the round into a 4v5 without any effect. If you win the round, you turn it into a 4v5 at the cost of 7 ult points that you didn't even need.
+
+I understand Riot having to release agents to appease the casual, unrated side of valorant but I'm a comp player who enjoys the dopamine rush of hitting a new rank and I'm tired of the same meta for idek how long it's been anymore. When do the comp players get a new agent that shakes up the meta? The unranked players got harbor, deadlock, gekko, and now you're going to tell me they're getting Iso as well? The inabilty to appease their whole community is what's going to cause valorant's death in a year or so.",False,False,VALORANT,Iso is another one of riots failures,0.11,https://www.reddit.com/r/VALORANT/comments/17db8hw/iso_is_another_one_of_riots_failures/
+djleo_cz,1697917618.0,17daqqe,False,True,Discussion,False,t3_17daqqe,15,False,/r/VALORANT/comments/17daqqe/im_atill_waiting/,0,"I'm still waiting for Riot to rework the RR system when individuals are afk. Not your buddy in party. Solo players. And no, if you really really think about it, it won't be abused.
+
+Just got a game where 2 people disconnect.
+
+Lost -20 RR
+
+Can we do some online riot or something?
+
+#letmelosemore",False,False,VALORANT,I'm atill waiting,0.27,https://www.reddit.com/r/VALORANT/comments/17daqqe/im_atill_waiting/
+CrazyFeeesh,1697917438.0,17daogs,False,False,Gameplay,False,t3_17daogs,12,False,/r/VALORANT/comments/17daogs/guess_my_rank_from_this_clip_ik_its_not_very/,20,"I've always wanted to have people I don't know look at my gameplay and say what they honestly think, and I guess this is as close as I'm ever gonna get",False,False,VALORANT,Guess my rank from this clip (ik it's not very impressive),0.65,https://v.redd.it/zk6r7by90mvb1
+ggez222,1697917169.0,17dal09,False,True,Discussion,False,t3_17dal09,14,False,/r/VALORANT/comments/17dal09/how_to_manage_tilt/,0,"I tilt really bad when I see my team doing random things. When I am not on tilt I perform 10x better but situations like losing 2v4, 1v3 chasing kills or Kay/o player not using 1 flash even after you ask them. Instalock Raze players who don't know how to satchel or 4 man stacking Lotus A(buy round) only to hide in site and dying 1 by 1 anyways.   
+
+
+I am currently in D3 so I expect some basic sense from teammates or should I just assume I will get easy difficulty AI teammates and play to drop 2-3 kills per round to win?  
+
+
+&#x200B;",False,False,VALORANT,How to manage tilt?,0.5,https://www.reddit.com/r/VALORANT/comments/17dal09/how_to_manage_tilt/
+Astro4742,1697916880.0,17dahfi,False,True,Question,False,t3_17dahfi,8,False,/r/VALORANT/comments/17dahfi/sensitivity_changes_improve_my_aim/,0,"Hello guys, every time i play bad and i can't get a shot on the enemies i change sensitivity and all of a sudden my aim becomes drastically way better.
+
+I don't know if i should keep changing it or not.
+
+but after something like 2 days with the same aim my aim starts getting pretty bad
+
+&#x200B;
+
+what would you reccomend me? btw im silver 2",False,False,VALORANT,Sensitivity changes improve my aim,0.5,https://www.reddit.com/r/VALORANT/comments/17dahfi/sensitivity_changes_improve_my_aim/
+Own-Garage8851,1697916215.0,17da8zx,False,True,Discussion,False,t3_17da8zx,10,False,/r/VALORANT/comments/17da8zx/sens_finder/,0,"My aimlab sens is 0.51 and 950dpi but in valorant the same sens and dpi feels slow..any genuine trusted site to get the right sens and value for the same.
+
+In Aim res- 1920 x 1080 144Hz
+Valorant res - 1440 x 1080 144hz",False,False,VALORANT,Sens finder,0.33,https://www.reddit.com/r/VALORANT/comments/17da8zx/sens_finder/
+Strict_Ad6860,1697915837.0,17da465,False,False,Gameplay,False,t3_17da465,0,False,/r/VALORANT/comments/17da465/my_best_montage_with_my_best_clips/,0,,False,False,VALORANT,My best montage with my best clips.,0.5,https://youtu.be/MsGJb3LOqwE?si=eGwgj3khv8aCD8kO
+Menopin,1697914395.0,17d9kuq,False,True,Question,False,t3_17d9kuq,41,False,/r/VALORANT/comments/17d9kuq/should_i_quit_competitive_valorant_i_think_its/,0,"Hello I'm a hardstuck plat player for about 1 year now and I've been playing ranked with friends every 8pm - 12am on days when I'm free. Recently I've ranked down all the way from Plat 3, back down to Plat 1 55 rr. I've only reached plat 3 recently this act, hoping I had a chance to reach diamond but it seems it is still very far away after my recent loss streaks.   
+
+
+Personally, I don't know if reaching diamond will really give me happiness or will be worth it. I wanna keep playing to socialize with my real life friends who also play. But at the same time, I think the hunger for the grind is ruining my life as a whole.   
+
+
+Personally, I don't know if reaching diamond will really give me happiness or will be worth it at all. I wanna keep playing to socialize with my real life friends who also play. But at the same time, I think the hunger for the grind is ruining my life as a whole.   
+
+
+So, should I just quit competitive valorant?  
+
+
+TL;DR: too obsessed to reach diamond which is affecting several aspects of my life, am not willing to sacrifice time and effort to vod review, aim train to improve",False,False,VALORANT,Should I quit competitive Valorant? I think its ruining my life,0.32,https://www.reddit.com/r/VALORANT/comments/17d9kuq/should_i_quit_competitive_valorant_i_think_its/
+TimeJustHappens,1697913571.0,17d99x8,False,False,Esports,False,t3_17d99x8,0,False,/r/VALORANT/comments/17d99x8/vct_challengers_2024_calendar_and_tier_placement/,9,,False,False,VALORANT,VCT Challengers 2024 Calendar and Tier Placement,1.0,https://www.reddit.com/gallery/17d99x8
+FairMiddle,1697913210.0,17d957a,False,True,Discussion,False,t3_17d957a,0,False,/r/VALORANT/comments/17d957a/about_iso_ult/,0,"Everyone already calls it domain expansion, but always compare him to gojo due to his color scheme. But yall forgot one critical aspect, it blocks all abilities. Guys. Its not unlimited void, its yuji’s domain.",False,False,VALORANT,About ISO ult,0.3,https://www.reddit.com/r/VALORANT/comments/17d957a/about_iso_ult/
+TimeJustHappens,1697912305.0,17d8td1,False,True,Question,False,t3_17d8td1,3,False,/r/VALORANT/comments/17d8td1/quick_questions_megathread/,0,"#Welcome to the r/VALORANT Quick Questions Megathread! 
+
+
+
+Have any questions you want to ask without creating a dedicated thread? Ask away!
+
+You may also find your answer in our **[FAQ page](https://www.reddit.com/r/valorant/wiki/faq)** or find additional input in our **[Discord](https://discord.gg/P8EyvjA)**.
+
+Questions can range between anything as simple as ""quick tips to improve aim"", ""what agent should I play"", or anything VALORANT related.",False,True,VALORANT,Quick Questions Megathread,0.5,https://www.reddit.com/r/VALORANT/comments/17d8td1/quick_questions_megathread/
+cloppyfawk,1697909039.0,17d7mrz,False,True,Question,False,t3_17d7mrz,32,False,/r/VALORANT/comments/17d7mrz/how_does_remake_work/,1,"I am not super experienced with Valorant - but have played League a lot. In League the remake function is used to 'remake' a game when there is an afk player at the start. You can use this by typing /remake and people have to press yes and it will remake without you losing points.
+
+I have had well over 15 ranked games now, where one of my teammates never connects, so is afk from the start, but the function hasn't worked in a single game.
+
+Did they turn the remake function off? The command seems to exist but hasn't worked in over 15+ games where we had an afk from the start that never connects. 
+
+So I am just wondering if it actually is a thing to remake and if there is maybe a different command? Since /remake very obviously doesn't work. ",False,False,VALORANT,"How does ""remake"" work?",0.52,https://www.reddit.com/r/VALORANT/comments/17d7mrz/how_does_remake_work/
+svxntaggio,1697907329.0,17d707i,False,True,Question,False,t3_17d707i,8,False,/r/VALORANT/comments/17d707i/looking_for_a_raze_main_to_help_me/,2,"Hello I'm an ascendant 1 reyna main and I am willing to switch to raze, I'm looking for anyone to help me out with raze mechanics",False,False,VALORANT,Looking for a raze main to help me,0.75,https://www.reddit.com/r/VALORANT/comments/17d707i/looking_for_a_raze_main_to_help_me/
+RemoteSprinkles2893,1697905358.0,17d6aiz,False,True,Discussion,False,t3_17d6aiz,16,False,/r/VALORANT/comments/17d6aiz/the_top_3_most_powerful_agents_lore_wise/,0,"This is a post I’m making to see what you think are the most powerful agents lore wise. I’ll go first: 
+1 Astra for her ability to manipulate what seems to be the plane of existence 
+2 Breach a walking talking WMD, if breach ever gets his hands on a lot of radiante he could theoretically cause a massive earthquake that could destroy cities 
+3 Jett as she manipulates the wind and might of caused a tornado in her hometown (tho she says it isn’t her fault)",False,False,VALORANT,The top 3 most powerful agents (lore wise),0.38,https://www.reddit.com/r/VALORANT/comments/17d6aiz/the_top_3_most_powerful_agents_lore_wise/
+1cola2,1697905158.0,17d67q7,False,True,Question,False,t3_17d67q7,3,False,/r/VALORANT/comments/17d67q7/any_routines_for_improvement/,0,"I have started playing premiers with my friends and we are doing pretty well.We are playing 4 plats and an ascendant so naturally when we play I get yelled at for doing things wrong. 
+So I want to get better but just mindlessly playing competitive doesn't seem very effective. 
+Do you guys have/do any routines to improve (not just aim but game sense as well but I could use the aim too😆)?",False,False,VALORANT,Any routines for improvement?,0.5,https://www.reddit.com/r/VALORANT/comments/17d67q7/any_routines_for_improvement/
+CantaloupeSmart7178,1697905079.0,17d66nu,False,True,Question,False,t3_17d66nu,0,False,/r/VALORANT/comments/17d66nu/does_anyone_know_how_the_premier_brackets_are/,1,"I'm just wondering if anyone knows how the premier brackets are determined, like my team is 42 in the league, will we be put vs guys around that part of the league? or is it totally random? 
+
+I checked other posts on here from a couple of months ago but no one knew, wasn't sure if any more info had been discovered, also riot haven't said how it works just ""you will be paid vs teams in your division"".  
+
+Thanks.",False,False,VALORANT,Does anyone know how the premier brackets are determined?,0.67,https://www.reddit.com/r/VALORANT/comments/17d66nu/does_anyone_know_how_the_premier_brackets_are/
+Wistom444,1697904371.0,17d5x81,False,True,Discussion,False,t3_17d5x81,2,False,/r/VALORANT/comments/17d5x81/agent_concept_hantu/,10,"Felt bored so made a spooky Malaysian agent 
+
+Malaysian agent specifically from penang, works as a comic artist.
+An avid fan of horror comic books, the first light granted him powers to commune with souls, he gets inspiration from them for drawing comics.
+
+Haunt status: basically nearsighted, but players cannot distinguish friend from foe
+
+If he is a Controller:
+
+C: Dome of haunting, 2 charges, 200 creds, ball of smoke that applies haunt for 2.5 seconds if you stay in there for over 5 seconds
+
+Q: Haunting spirit, 1 charge, 300 creds, Hantu sends forward a vengeful soul that applies haunt for 2 seconds to anyone in the aoe
+
+E: Ghastly wall, rechargeable, 1 charge, Hantu creates a wall of misty light grey smoke. Starting from 5m away, the wall will become more and more translucent until 70% opacity, and other players will see the outline of this player, up to 30% opacity depending on how close they are
+
+X: Haunted grounds, 8 points, Hantu creates a misty area plagued with vengeful souls. All other players within the aoe are affected by haunt.
+
+
+If he is Intiator
+
+C: Ghostly projection, 1 charge, 200 creds, Hantu uses a part of his soul to create an entity modled after him or one of his teammates. He can use it to scout and area, but is limited to 20m vision. The first enemy to shoot is is affected by haunt for 1.5 seconds
+
+Q: Ghastly light, 2 charges, 200 creds, Hantu summons a concentrated ball of self-conscious souls, seeking out anyone looking directly at them and haunting them for 2.5 seconds. (Basically a flash)
+
+E: Soul seeker, rechargeable, Hantu calls upon a friendly soul to seek out nearby enemies in an aoe, haunting them for 2 seconds, and communicating to hantu the number of enemies in the area. (Same area as kayo knife)
+
+X: Possession, 8 points, Hantu sends part of his soul to occupy any dead body. The controlled player has 50hp. If hantu is killed while controlling the body, the rest of his soul is transfered to the new host, healing it by 50hp and gaining Hantu's abilities.
+
+I know Riot probably will never even glance at this but I think an agent that can actually communicate with souls would be great to expand the lore of multiple agents or places (ie what soul sage is actually inserting, who omen was or how his powers work/what progress scientists made in fracture/yoru's ancestors)",False,False,VALORANT,Agent Concept: Hantu,0.75,https://www.reddit.com/r/VALORANT/comments/17d5x81/agent_concept_hantu/
+Equivalent_Fan1232,1697902929.0,17d5e7d,False,True,Question,False,t3_17d5e7d,18,False,/r/VALORANT/comments/17d5e7d/looking_for_a_new_gamertag/,0,"i want something to do with owls but just plan out owl is not catchy i also thought of kingowl but kinda feels unoriginal
+
+&#x200B;",False,False,VALORANT,looking for a new gamertag,0.38,https://www.reddit.com/r/VALORANT/comments/17d5e7d/looking_for_a_new_gamertag/
+Bart1009,1697901678.0,17d4y10,False,True,Gameplay,False,t3_17d4y10,4,False,/r/VALORANT/comments/17d4y10/1v3_clutch_with_a_sus_flick/,1,"[https://clipchamp.com/watch/nK6XGmc6asF](https://clipchamp.com/watch/nK6XGmc6asF)
+
+This post serves three purposes.
+
+1. Editing Help. This is quite literally the first video I have ever ""edited"" in my life. I put that in quotations because this is only an 80 minute long video clipped into 57 seconds. Not really editing but it has sparked my interest in learning to edit gameplay videos and montages. Any help, tips, tricks, apps, and software to use would be greatly appreciated!
+2. To show off the play. I am not amazing at valorant. Peaked plat 3 but hover around Gold these days, occasionally making it into Plat. I was proud of this and wanted to show it off!
+3. Should I be worried about being reported. I'll admit that this isn't too much of a concern for me but watching the clip back I could see how it would considered ""sus"" especially from his point of view. I should be fine right?
+
+Hope yal enjoy the clip!",False,False,VALORANT,"1v3 Clutch with a ""sus"" flick",0.6,https://www.reddit.com/r/VALORANT/comments/17d4y10/1v3_clutch_with_a_sus_flick/
+OisinC,1697901355.0,17d4tsd,False,False,Art,False,t3_17d4tsd,6,False,/r/VALORANT/comments/17d4tsd/renegade_valorant_x_99_god_x_c103_official_audio/,30,,False,False,VALORANT,RENEGADE // VALORANT x 99 GOD x C103 - Official Audio,0.92,https://www.youtube.com/watch?v=QAAap0ceNbo
+AffectionateBed904,1697863431.0,17cum81,False,True,Question,False,t3_17cum81,0,False,/r/VALORANT/comments/17cum81/purchasable_voice_lines_in_valorant/,0,"I think valorant should add voice lines that you can buy for Val points or Kingdom points. These voice lines could be unlocked through agent progression or just bought in the shop somewhere. Maybe some voice line packs where you get a few new ones for each character?
+
+ I’ve always loved the personalities of each agent and their voice actors so it be great to hear some more of them. Plus imagine if we had some memey lines that were just stupid.(yoru saying ara ara when he gets a headshot or some shit like that). 
+
+It would give the players some more stuff to buy or progress towards, more unique and cool voice lines or funny ones, it would support the voice actors, and have no effect on gameplay. What do y’all think?
+
+[View Poll](https://www.reddit.com/poll/17cum81)",False,False,VALORANT,Purchasable voice lines in Valorant?,0.33,https://www.reddit.com/r/VALORANT/comments/17cum81/purchasable_voice_lines_in_valorant/
+CuteFoxTwink,1697898336.0,17d3r01,False,True,Discussion,False,t3_17d3r01,111,False,/r/VALORANT/comments/17d3r01/why_isnt_harbor_a_good_controller/,202,"His kit seems so powerful. You don't need lineups you can initiate them wherever you want due to the flexibility of your wall, the bullet proof orb is perfect for plant protection and doubles as a smoke and a small wall, you can use the push walls for visual cover when rushing an area with multiple entry ways, and the ult is the perfect tool for pushing people out of their hiding corners on site and you also get info by looking into the sky and seeing the pillars of water indicating where your targets are.",False,False,VALORANT,Why isn't harbor a good controller?,0.89,https://www.reddit.com/r/VALORANT/comments/17d3r01/why_isnt_harbor_a_good_controller/
+Sukaiburu,1697898125.0,17d3o98,False,True,Question,False,t3_17d3o98,1,False,/r/VALORANT/comments/17d3o98/iso_inears_and_hoodiejacket/,0,"Hello guys :).
+
+I am highly interested in cosplayingcosplay ing him.
+
+Does anyone know a hoodie/jacket and in-ears who looks like his?
+
+Maybe you saw something similiar and can give me a link.
+
+Thank you in advance :)",False,False,VALORANT,Iso in-ears and hoodie/jacket,0.5,https://www.reddit.com/r/VALORANT/comments/17d3o98/iso_inears_and_hoodiejacket/
+the_reel_swim_shady,1697898008.0,17d3mmi,False,True,Discussion,False,t3_17d3mmi,4,False,/r/VALORANT/comments/17d3mmi/new_colors_and_upgrades_are_added_to_preexisting/,3,"If Riot featured bundles that included new colors, unlockable upgrades, and even character interactions for currently released skins, what would they look like?",False,False,VALORANT,New Colors and Upgrades are added to Pre-existing skins:,0.72,https://www.reddit.com/r/VALORANT/comments/17d3mmi/new_colors_and_upgrades_are_added_to_preexisting/
+dunnerski,1697897442.0,17d3fnu,False,False,Gameplay,False,t3_17d3fnu,0,False,/r/VALORANT/comments/17d3fnu/four_against_one_i_like_those_odds/,0,,False,False,VALORANT,Four Against One? I like those odds.,0.4,https://www.youtube.com/watch?v=6vkkp3RK-Kg
+CiHel,1697893228.0,17d21cp,False,False,Question,False,t3_17d21cp,2,False,/r/VALORANT/comments/17d21cp/breach_ult_not_work_in_strafe_mode_i_want_to_keep/,0,,False,False,VALORANT,breach ult not work in strafe mode I want to keep two bots for practicing HS flick hope fix 7.09,0.38,https://v.redd.it/12kbyejvzjvb1
+learneveryday1997,1697892725.0,17d1vxy,False,True,Question,False,t3_17d1vxy,1,False,/r/VALORANT/comments/17d1vxy/did_they_change_something_about_the_graphics_in/,0,"I mostly play on my laptop, its nothing fancy but i get constant fps so the game is playable. after last update, my first game was in sunset, in one of the rounds I peeked mid and I noticed it was a bit hard for me to aim at the enemy, they seemed very thin and small, smaller than the usual, the next game was breeze and this change was very obvious, sometime the enemy will peek in a long rang and it would take me a bit of time to react because I didn't notice them at first, its like they nerfed the yellow/red outline that the enemies has, did anyone else notice this or its just me ?",False,False,VALORANT,Did they change something about the graphics in the last update ?,0.5,https://www.reddit.com/r/VALORANT/comments/17d1vxy/did_they_change_something_about_the_graphics_in/
+Reatrex,1697892453.0,17d1t0h,False,True,Discussion,False,t3_17d1t0h,16,False,/r/VALORANT/comments/17d1t0h/iso_isnt_a_duelist/,0,"Obviously just my opinion, but his c and q are just straight up initiator abilities. Yes, his e is a duelist ability but like it is with reyna, it doesnt help you entry a site unless you get a kill. And the ult while being very cool is just another kill tool that every role can have (f.e. Raze - duelist, sova - initiator, brim - smoker, deadlock - sentinel)
+
+Feel free to share your opinion",False,False,VALORANT,ISO isn't a duelist,0.48,https://www.reddit.com/r/VALORANT/comments/17d1t0h/iso_isnt_a_duelist/
+charfrdw,1697890909.0,17d1cjh,False,True,Question,False,t3_17d1cjh,243,False,/r/VALORANT/comments/17d1cjh/say_riot_adds_a_banning_system_where_each_team/,502,"I know obviously there’s map picks for different agents, but is there an agent in your opinion that people will just instantly want to ban just because it’s that agent and they don’t want to play against them?",False,False,VALORANT,Say Riot adds a banning system where each team can ban one agent in a game. Which agent do you think will get banned the most?,0.96,https://www.reddit.com/r/VALORANT/comments/17d1cjh/say_riot_adds_a_banning_system_where_each_team/
+hshsgsjsbsvsgsjs,1697890009.0,17d132b,False,False,Gameplay,False,t3_17d132b,0,False,/r/VALORANT/comments/17d132b/100_iq_game_play/,0,Watch This,False,False,VALORANT,100 IQ Game play,0.25,https://youtu.be/gRKJlC0SEWg?si=WwW-hDqFoLzO1npc
+CowFit7916,1697887079.0,17d0asv,False,True,Gameplay,False,t3_17d0asv,2,False,/r/VALORANT/comments/17d0asv/when_karma_hits_you_hard/,5,"Your actions always have a way of coming back to you. So basically, we had a YouTuber in our team who was flexing and making the enemies feel bad. And in the last match, our team was trolling to surrender. It all came down to one vote, and guess what? It was the streamer's turn. Thanks to his coffee mug, not only did he surrender and make me lose so many points, but also destroyed his expensive keyboard.
+
+https://preview.redd.it/15piytvyhjvb1.png?width=1920&format=png&auto=webp&s=1322b82827b22d731dc99bab820cc2a0f3bf9cd5",False,False,VALORANT,When karma hits you hard,0.67,https://www.reddit.com/r/VALORANT/comments/17d0asv/when_karma_hits_you_hard/
+Adventurous-Many-394,1697884376.0,17czm0g,False,True,Question,False,t3_17czm0g,2,False,/r/VALORANT/comments/17czm0g/iso_ult/,2,If you get hit while in phoenix ult would you go to the gulag as your ult form? Also can you be hit while in Yoru ult?,False,False,VALORANT,ISO ult,0.75,https://www.reddit.com/r/VALORANT/comments/17czm0g/iso_ult/
+WiPhKi,1697881735.0,17cyyzy,False,True,Discussion,False,t3_17cyyzy,54,False,/r/VALORANT/comments/17cyyzy/comms_but_no_kills/,26,"Like what's better/worse
+
+Making Kills but don't talk at all (like having 35/15/X)
+
+Or don't make kills but always give Comms and dies in every combat situation (like having 3/20/X)
+
+what teammate would you prefer ??
+
+
+Edit 1: Is the 35kills player ""allowed"" to be toxic at the 3kills player ???",False,False,VALORANT,Comms but no kills ??,0.85,https://www.reddit.com/r/VALORANT/comments/17cyyzy/comms_but_no_kills/
+NoPointLaughing,1697881505.0,17cyx3x,False,True,Discussion,False,t3_17cyx3x,19,False,/r/VALORANT/comments/17cyx3x/im_a_silver_1_peak_looking_to_improve_coaching/,0,Does anybody have any good sources for 1on1 coaching? Since I've tried the Youtube video stuff and it's only gotten me this far (silver 1 peak). My ideal rank to get to would probably be High gold/Low plat,False,False,VALORANT,I'm a silver 1 peak looking to improve (coaching),0.5,https://www.reddit.com/r/VALORANT/comments/17cyx3x/im_a_silver_1_peak_looking_to_improve_coaching/
+Mr9Anonymous,1697880987.0,17cysxy,False,True,Question,False,t3_17cysxy,7,False,/r/VALORANT/comments/17cysxy/anyone_else_who_hates_pocket_sages/,0,"So this was during ranked. A Sova and Sage duo were in my team. Instead of playing as a team and helping each other, the Sage just sat in a corner with Sova and just followed him wherever he went. When asked he told that Sage is his girlfriend. It would have been fine if that was it. But the Sage refused to heal anyone who was low hp and only healed his Boyfriend even if he was just -10 hp and we were 1 hp. I don't know why such people play a 5v5 game when they don't want to do any team work.
+The Sage also didn't wall off any site nor did she took active participation in killing any enemies. Just her boyfriend's dump truck.",False,False,VALORANT,Anyone else who hates Pocket Sages?,0.12,https://www.reddit.com/r/VALORANT/comments/17cysxy/anyone_else_who_hates_pocket_sages/
+QupoOCE,1697874142.0,17cx9bp,False,False,Gameplay,False,t3_17cx9bp,16,False,/r/VALORANT/comments/17cx9bp/lucky_hospital_flick/,459,,False,False,VALORANT,Lucky hospital flick,0.95,https://v.redd.it/lfseqt4abivb1
+Snoo-18276,1697873989.0,17cx82m,False,True,Question,False,t3_17cx82m,7,False,/r/VALORANT/comments/17cx82m/is_this_how_long_a_valorant_round_last/,16,"i was calculating how long a round takes including spike plant and pre-round time. and i came across this, it made me more confused can anyone confirm if this is true
+
+https://preview.redd.it/mr84fup1fivb1.png?width=1046&format=png&auto=webp&s=0044f5cb0962a75a8ff391c43cd314d0cc488f01
+
+&#x200B;
+
+source: [The Ultimate Guide to Valorant: How Many Rounds in a Game? - Askingames](https://askingames.com/valorant-how-many-rounds-0c092/)",False,False,VALORANT,is this how long a valorant round last,0.77,https://www.reddit.com/r/VALORANT/comments/17cx82m/is_this_how_long_a_valorant_round_last/
+AbstractionHS,1697873963.0,17cx7vl,False,True,Discussion,False,t3_17cx7vl,0,False,/r/VALORANT/comments/17cx7vl/excited_to_iso_ult_some_shotgun_users/,0,Good luck trying to kill me from the other side of my arena with ur judge while I tbag for 10 seconds then 1 tap you,False,False,VALORANT,Excited to Iso ult some shotgun users,0.41,https://www.reddit.com/r/VALORANT/comments/17cx7vl/excited_to_iso_ult_some_shotgun_users/
+hueznx,1697873825.0,17cx6sp,False,False,Educational,False,t3_17cx6sp,6,False,/r/VALORANT/comments/17cx6sp/viper_oneway_smoke_on_lamps_bind_attack_side/,107,"I saw that no one had done this smoke before, so I trained to find the easiest way to get it right. Do exactly what I did in the video and you will hit the smoke most of the time. If you get the lineup wrong, no problem, as the smoke will fall into the lamps entrance ! If you can't get the lineup right, send a clip in the comments and I'll try to help you. ",False,False,VALORANT,Viper oneway smoke on lamps Bind (attack side),0.94,https://v.redd.it/majwmt7leivb1
+East_Property,1697872500.0,17cwvvr,False,True,Question,False,t3_17cwvvr,21,False,/r/VALORANT/comments/17cwvvr/what_do_you_guys_use_to_capture_screen/,11,"i currently use nvidia gforce experience but the file sizes go crazy at 1080p,60fps. i was wondering if there was a better and more efficient way i can capture valorant.
+tnx in advance.",False,False,VALORANT,what do you guys use to capture screen?,0.92,https://www.reddit.com/r/VALORANT/comments/17cwvvr/what_do_you_guys_use_to_capture_screen/
+avg_perospero,1697871219.0,17cwkn3,False,True,Question,False,t3_17cwkn3,4,False,/r/VALORANT/comments/17cwkn3/system_specs/,0,"Till what rank can i actually get with a 75hz monitor,  250-300fps . And cheap 6$ 1000hz gaming mouse. 
+I am currently plat 1.",False,False,VALORANT,System specs,0.5,https://www.reddit.com/r/VALORANT/comments/17cwkn3/system_specs/
+Peshiiiii,1697870384.0,17cwdcl,False,True,Discussion,False,t3_17cwdcl,6,False,/r/VALORANT/comments/17cwdcl/so_hard_to_play_this_game_with_random_people/,4,"I was playing comp with my two friends and we have two random teammates, both of which are duelists. To make the story short, they were both bot frag and not doing their roles properly (no entry, always at the back waiting for flank) and when I called out the raze she started using her voice comms and cried the hell out, trashtalking me, saying she just have a bad game and I am a gay (not that I care lol). She's been on our back every time we enter site and during half match (defender) she just doesn't cooperate and afks most of the time. Thank the heavens my two friends are good, it's like we're playing a 3v5 with the two not doing anything but being a fodder. At the end we were able to finish the game to a draw.
+
+I mean, why do people would queue in competitive game and just assume that they will be carried by some other people and when somebody calls them out they would start acting like it's not their fault? Just don't queue competitive game man, you're ruining other people's playtime. I would understand if it was unrated, but it's a competitive game. It's so stupid to think the one who always feel entitled are those who are not contributing to the team.",False,False,VALORANT,So hard to play this game with random people,0.6,https://www.reddit.com/r/VALORANT/comments/17cwdcl/so_hard_to_play_this_game_with_random_people/
+boxfansound24hours,1697869705.0,17cw77v,False,True,Discussion,False,t3_17cw77v,3,False,/r/VALORANT/comments/17cw77v/can_anyone_give_me_advice/,0,I can’t seem to win anymore and am down over 250 elo. if anyone can tell me why i’m doing so poorly please do. I comm with my team I try my best and i get  teammates that just don’t do anything.  my tracker is ice#606 i solo queue only because i have no one to queue with.,False,False,VALORANT,Can Anyone Give Me Advice?,0.33,https://www.reddit.com/r/VALORANT/comments/17cw77v/can_anyone_give_me_advice/
+Main-Insurance8687,1697868398.0,17cvvqp,False,False,Question,False,t3_17cvvqp,32,False,/r/VALORANT/comments/17cvvqp/what_am_i_doing_wrong_sometimes_i_feel_unlucky_or/,4,,False,False,VALORANT,What am I doing wrong? sometimes I feel unlucky or am I just bad?,0.57,https://v.redd.it/lxn0ntpbyhvb1
+dISCONECTOR,1697866914.0,17cvigi,False,True,Discussion,False,t3_17cvigi,8,False,/r/VALORANT/comments/17cvigi/agents_as_dnd_classes/,1,"So, hi, I was looking at an 3yo post from u/[wcoleclark](https://www.reddit.com/user/wcoleclark/), where he proposed this idea, and since I'm a huge DnD nerd and kinda already do this kind of thing for some other games (did this for Overwatch, DbD and Apex), I decided to share my ideas with you guys and ask for some opinions :D
+
+* Astra - Druid Stars Human
+* Breach - Armorer Artificer Dwarf
+* Brimstone - Glory Paladin Human
+* Chamber - Hexblade Warlock Human
+* Cypher - Mastermind Rogue Human
+* Deadlock - Abjuration Wizard Goliath
+* Fade - Shadow Sorcerer Drow
+* Gekko - Swarmkeeper Ranger Human
+* Harbor - Sea Druid (This is an UA subclass) Human
+* ISO - Assassin Rogue Elf
+* Jett - Druken Master Monk Air Genasi
+* Kay/o - Horizon Walker Goliath (Could be Warforged but not all tables are cool with them)
+* Killjoy - Artillerist Artificer Half Elf
+* Neon - Bladesinger Wizard Human
+* Omen - Shadow Monk Revenant
+* Phoenix - Light Cleric Fire Genasi
+* Raze - Evocation Wizard Goblin
+* Reyna - Undead Warlock Damphir
+* Sage - Divine Sorcerer High Elf
+* Skye - Beast Master Ranger Wood Elf
+* Sova - Arcane Archer Fighter High Elf
+* Viper - Spores Druid Yuan-Ti
+* Yoru - Arcane Trickster Rogue Tiefling",False,False,VALORANT,Agents as DnD classes,0.67,https://www.reddit.com/r/VALORANT/comments/17cvigi/agents_as_dnd_classes/
+ursure,1697863082.0,17cuj0w,False,True,Question,False,t3_17cuj0w,38,False,/r/VALORANT/comments/17cuj0w/can_omen_use_his_ult_to_escape_an_iso_ult/,127,"As an Omen main, I’m curious to see if Omen is able to escape an Iso gulag using his ultimate. It’s also going to be interesting how other ults can be used in the gulag.",False,False,VALORANT,Can Omen use his ult to escape an Iso ult?,0.87,https://www.reddit.com/r/VALORANT/comments/17cuj0w/can_omen_use_his_ult_to_escape_an_iso_ult/
+ahegaosans,1697859304.0,17cthh4,False,True,Discussion,False,t3_17cthh4,57,False,/r/VALORANT/comments/17cthh4/lem_csgo_player_backseated_the_whole_game/,114,"Im really confused about a decision a rando teammate of mine made and have a question for some other high elo players.
+
+I just played with a gold sage who talked shit in all the whole game and would not stop back-seating. Like throughout the whole game he was instructing people on what precise moves my teammates should've been making with each and every piece of util. 
+
+on top of that, he was playing only sheriff. I added him to ask him why, and he said he only plays twice a month and doesn't care about Valorant. I thought that was a little odd since he was quite mechanically adept, so I asked if he played CSGO, which is how I know his (alleged) rank. He claimed he does just as much back-seating in that game.
+
+I was under the impression that telling someone constantly how to use their util is ultimately harmful as not only are they going to be under more pressure, but they also probably know how to play whatever agent they're playing better than you do.
+
+Is this an inaccurate assessment? Is frequent back-seating a valid strategy in CSGO? any there any other players that are as high elo as this fellow claimed to be that also think this is a good idea? If I'm just stupid and this is perfectly logical that's perfectly fine, I'm just trying to understand.",False,False,VALORANT,LEM CSGO player backseated the whole game...,0.83,https://www.reddit.com/r/VALORANT/comments/17cthh4/lem_csgo_player_backseated_the_whole_game/
+AntechamberAE,1697857543.0,17csyji,False,False,Discussion,False,t3_17csyji,54,False,/r/VALORANT/comments/17csyji/in_valorant_patch_709_it_looks_like_the_rifle/,1316,,False,False,VALORANT,In Valorant Patch 7.09 it looks like the Rifle Reload speed is much faster.,0.96,https://v.redd.it/erxg61y12hvb1
+That_Absolute_Guy,1697855894.0,17csg3c,False,True,Discussion,False,t3_17csg3c,2,False,/r/VALORANT/comments/17csg3c/new_colordesign_upgrades_in_the_shop/,3,"Lately Rito has been adding and altering the shop, I think a really cool addition would be adding new customizations to existing skins.
+This could include new colors for prime or a cool idea is an ion upgrade that fits with Iso. Paying for in game interactions with skins could be really cool similar to the oni sword-yoru ult interaction.
+I think this concept just has a good amount of potential and a lot of people would be hyped for it.",False,False,VALORANT,New color/design upgrades in the Shop,0.8,https://www.reddit.com/r/VALORANT/comments/17csg3c/new_colordesign_upgrades_in_the_shop/
+PlasticCouple3937,1697848036.0,17cpvdm,False,True,Question,False,t3_17cpvdm,2,False,/r/VALORANT/comments/17cpvdm/player_card/,0,"Hello, I really like this one omen and Sage halloween (idk if it is halloween) player card where omen has his ears and sage has her witch hat and I just wanted to ask (even if it takes a while) if the player card rotates in the kingdom credits shop or if I am every time looking without a sense for it because it doesn‘t rotate in the shop. Thanks",False,False,VALORANT,Player card,0.5,https://www.reddit.com/r/VALORANT/comments/17cpvdm/player_card/
+Lil_Green1765,1697856639.0,17csoct,False,True,Question,False,t3_17csoct,27,False,/r/VALORANT/comments/17csoct/is_ok_to_be_a_rat_with_cphyer/,1,I  had enemy team super toxic bc I used set ups with I learn for cphyer that I had honestly enjoyed playing,False,False,VALORANT,"Is ok to be a ""Rat"" with cphyer?",0.52,https://www.reddit.com/r/VALORANT/comments/17csoct/is_ok_to_be_a_rat_with_cphyer/
+Severe_Ad_9127,1697856106.0,17csihn,False,True,Question,False,t3_17csihn,43,False,/r/VALORANT/comments/17csihn/is_60hz_good_for_val/,0,I’m running 100-120fps with 60hz monitor. Will getting a pc with 400fps and 240hz monitor do anything drastic? I’m currently plat 1,False,False,VALORANT,Is 60hz good for val?,0.37,https://www.reddit.com/r/VALORANT/comments/17csihn/is_60hz_good_for_val/
+Huihejfofew,1697855520.0,17csbsg,False,True,Discussion,False,t3_17csbsg,112,False,/r/VALORANT/comments/17csbsg/i_like_how_we_all_collectively_forgot_valorant/,307,Anyone else remember this. We're we're eventually meant to get a replay system then Val thought to themselves nah ceebs and we let them get away with it,False,False,VALORANT,I like how we all collectively forgot valorant promised replays then back tracked,0.87,https://www.reddit.com/r/VALORANT/comments/17csbsg/i_like_how_we_all_collectively_forgot_valorant/
